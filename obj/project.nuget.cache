@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjtaNDzug/U=",
+  "dgSpecHash": "QuPttbTMGIM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin1\\Desktop\\MyConsoleApp\\MyConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin1\\Desktop\\GeoPointsDotnet\\MyConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin1\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
     "C:\\Users\\Admin1\\.nuget\\packages\\nettopologysuite.features\\2.2.0\\nettopologysuite.features.2.2.0.nupkg.sha512",

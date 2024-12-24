@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin1\\Desktop\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "C:\\Users\\Admin1\\Desktop\\GeoPointsDotnet\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin1\\Desktop\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "C:\\Users\\Admin1\\Desktop\\GeoPointsDotnet\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin1\\Desktop\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin1\\Desktop\\GeoPointsDotnet\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\Admin1\\Desktop\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Admin1\\Desktop\\GeoPointsDotnet\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Admin1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin1\\Desktop\\MyConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Admin1\\Desktop\\GeoPointsDotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin1\\AppData\\Roaming\\NuGet\\NuGet.Config"
