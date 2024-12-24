@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjtaNDzug/U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin1\\Desktop\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin1\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\nettopologysuite.features\\2.2.0\\nettopologysuite.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\nettopologysuite.io.geojson\\4.0.0\\nettopologysuite.io.geojson.4.0.0.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
